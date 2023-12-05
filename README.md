@@ -51,5 +51,5 @@ resource <type of resource> <name> {
 * ![preview](images/Terraform29.jpg)
 * Now validate and apply
 * ![preview](images/Terraform31.jpg) 
-* ### i am going to stop for few days...
+* ### i am going to stop for few days..., sorry for the inconvenience...
   
